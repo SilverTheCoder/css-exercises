@@ -4,6 +4,10 @@
 }
 
 .but-cooler {
- font-size: 24px;;
+ font-size: 24px;
 }
 
+#number2 {
+    color:rgb(44, 44, 209);
+    font-size: 36px;
+}
